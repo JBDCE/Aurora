@@ -1,0 +1,4 @@
+Features:
+[ ] Make multiple Points Selectable
+[ ] Allow for multiple Effect Tabs
+[ ] Enable Easy Gui Config through Lamp positions and Background Image
